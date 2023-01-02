@@ -1,0 +1,843 @@
+{
+  "words_result": [
+    {
+      "words": "牌局结束",
+      "location": {
+        "top": 26,
+        "left": 312,
+        "width": 250,
+        "height": 64
+      }
+    },
+    {
+      "words": "房间号：161497",
+      "location": {
+        "top": 143,
+        "left": 137,
+        "width": 207,
+        "height": 32
+      }
+    },
+    {
+      "words": "5月16日11：5：42",
+      "location": {
+        "top": 147,
+        "left": 390,
+        "width": 214,
+        "height": 26
+      }
+    },
+    {
+      "words": "12局",
+      "location": {
+        "top": 143,
+        "left": 660,
+        "width": 67,
+        "height": 32
+      }
+    },
+    {
+      "words": "4安达水果网售1经30",
+      "location": {
+        "top": 198,
+        "left": 130,
+        "width": 284,
+        "height": 46
+      }
+    },
+    {
+      "words": "发展",
+      "location": {
+        "top": 208,
+        "left": 486,
+        "width": 81,
+        "height": 23
+      }
+    },
+    {
+      "words": "1D:22212953",
+      "location": {
+        "top": 233,
+        "left": 176,
+        "width": 98,
+        "height": 20
+      }
+    },
+    {
+      "words": "+200",
+      "location": {
+        "top": 219,
+        "left": 694,
+        "width": 61,
+        "height": 23
+      }
+    },
+    {
+      "words": "1D:22177921",
+      "location": {
+        "top": 235,
+        "left": 520,
+        "width": 97,
+        "height": 17
+      }
+    },
+    {
+      "words": "春有百花",
+      "location": {
+        "top": 274,
+        "left": 176,
+        "width": 90,
+        "height": 27
+      }
+    },
+    {
+      "words": "+1960",
+      "location": {
+        "top": 285,
+        "left": 335,
+        "width": 77,
+        "height": 25
+      }
+    },
+    {
+      "words": "木材",
+      "location": {
+        "top": 274,
+        "left": 520,
+        "width": 46,
+        "height": 25
+      }
+    },
+    {
+      "words": "ID:22192563",
+      "location": {
+        "top": 301,
+        "left": 156,
+        "width": 117,
+        "height": 19
+      }
+    },
+    {
+      "words": "1D:22275014",
+      "location": {
+        "top": 301,
+        "left": 520,
+        "width": 97,
+        "height": 16
+      }
+    },
+    {
+      "words": "+200",
+      "location": {
+        "top": 285,
+        "left": 694,
+        "width": 61,
+        "height": 25
+      }
+    },
+    {
+      "words": "1D:22222194",
+      "location": {
+        "top": 363,
+        "left": 152,
+        "width": 124,
+        "height": 31
+      }
+    },
+    {
+      "words": "+1280",
+      "location": {
+        "top": 353,
+        "left": 335,
+        "width": 77,
+        "height": 23
+      }
+    },
+    {
+      "words": "iD:22206810",
+      "location": {
+        "top": 368,
+        "left": 520,
+        "width": 96,
+        "height": 17
+      }
+    },
+    {
+      "words": "+200",
+      "location": {
+        "top": 353,
+        "left": 694,
+        "width": 61,
+        "height": 23
+      }
+    },
+    {
+      "words": "建新",
+      "location": {
+        "top": 409,
+        "left": 177,
+        "width": 48,
+        "height": 23
+      }
+    },
+    {
+      "words": "+1000",
+      "location": {
+        "top": 423,
+        "left": 336,
+        "width": 73,
+        "height": 17
+      }
+    },
+    {
+      "words": "福",
+      "location": {
+        "top": 409,
+        "left": 517,
+        "width": 29,
+        "height": 25
+      }
+    },
+    {
+      "words": "+200",
+      "location": {
+        "top": 420,
+        "left": 694,
+        "width": 61,
+        "height": 23
+      }
+    },
+    {
+      "words": "1D:22222998",
+      "location": {
+        "top": 438,
+        "left": 178,
+        "width": 96,
+        "height": 16
+      }
+    },
+    {
+      "words": "lD:22259253",
+      "location": {
+        "top": 436,
+        "left": 520,
+        "width": 96,
+        "height": 17
+      }
+    },
+    {
+      "words": "沉着应付",
+      "location": {
+        "top": 477,
+        "left": 176,
+        "width": 91,
+        "height": 26
+      }
+    },
+    {
+      "words": "+900",
+      "location": {
+        "top": 488,
+        "left": 350,
+        "width": 61,
+        "height": 23
+      }
+    },
+    {
+      "words": "黄家稳",
+      "location": {
+        "top": 477,
+        "left": 520,
+        "width": 68,
+        "height": 23
+      }
+    },
+    {
+      "words": "+200",
+      "location": {
+        "top": 488,
+        "left": 694,
+        "width": 61,
+        "height": 23
+      }
+    },
+    {
+      "words": "1D:21974888",
+      "location": {
+        "top": 504,
+        "left": 177,
+        "width": 96,
+        "height": 17
+      }
+    },
+    {
+      "words": "D:21977527",
+      "location": {
+        "top": 504,
+        "left": 524,
+        "width": 91,
+        "height": 16
+      }
+    },
+    {
+      "words": "不在",
+      "location": {
+        "top": 547,
+        "left": 178,
+        "width": 42,
+        "height": 17
+      }
+    },
+    {
+      "words": "晓燕美容",
+      "location": {
+        "top": 545,
+        "left": 475,
+        "width": 136,
+        "height": 24
+      }
+    },
+    {
+      "words": "+100",
+      "location": {
+        "top": 554,
+        "left": 692,
+        "width": 63,
+        "height": 23
+      }
+    },
+    {
+      "words": "ID:22273568",
+      "location": {
+        "top": 571,
+        "left": 177,
+        "width": 97,
+        "height": 17
+      }
+    },
+    {
+      "words": "+700",
+      "location": {
+        "top": 556,
+        "left": 348,
+        "width": 63,
+        "height": 23
+      }
+    },
+    {
+      "words": "1D:22212872",
+      "location": {
+        "top": 572,
+        "left": 522,
+        "width": 96,
+        "height": 17
+      }
+    },
+    {
+      "words": "华",
+      "location": {
+        "top": 610,
+        "left": 156,
+        "width": 46,
+        "height": 23
+      }
+    },
+    {
+      "words": "+690",
+      "location": {
+        "top": 623,
+        "left": 350,
+        "width": 61,
+        "height": 23
+      }
+    },
+    {
+      "words": "优信达名车",
+      "location": {
+        "top": 612,
+        "left": 520,
+        "width": 110,
+        "height": 23
+      }
+    },
+    {
+      "words": "+0",
+      "location": {
+        "top": 623,
+        "left": 723,
+        "width": 32,
+        "height": 23
+      }
+    },
+    {
+      "words": "1D:22166145",
+      "location": {
+        "top": 639,
+        "left": 178,
+        "width": 96,
+        "height": 16
+      }
+    },
+    {
+      "words": "1D:22218571",
+      "location": {
+        "top": 639,
+        "left": 522,
+        "width": 97,
+        "height": 16
+      }
+    },
+    {
+      "words": "华",
+      "location": {
+        "top": 677,
+        "left": 175,
+        "width": 25,
+        "height": 23
+      }
+    },
+    {
+      "words": "1D:22180739",
+      "location": {
+        "top": 705,
+        "left": 178,
+        "width": 94,
+        "height": 17
+      }
+    },
+    {
+      "words": "+400",
+      "location": {
+        "top": 691,
+        "left": 350,
+        "width": 61,
+        "height": 23
+      }
+    },
+    {
+      "words": "金",
+      "location": {
+        "top": 678,
+        "left": 520,
+        "width": 24,
+        "height": 25
+      }
+    },
+    {
+      "words": "D:22232541",
+      "location": {
+        "top": 704,
+        "left": 523,
+        "width": 93,
+        "height": 19
+      }
+    },
+    {
+      "words": "+0",
+      "location": {
+        "top": 691,
+        "left": 725,
+        "width": 30,
+        "height": 23
+      }
+    },
+    {
+      "words": "华",
+      "location": {
+        "top": 748,
+        "left": 132,
+        "width": 67,
+        "height": 18
+      }
+    },
+    {
+      "words": "+400",
+      "location": {
+        "top": 757,
+        "left": 348,
+        "width": 63,
+        "height": 23
+      }
+    },
+    {
+      "words": "永安",
+      "location": {
+        "top": 747,
+        "left": 519,
+        "width": 48,
+        "height": 23
+      }
+    },
+    {
+      "words": "1D:22171542",
+      "location": {
+        "top": 769,
+        "left": 133,
+        "width": 141,
+        "height": 23
+      }
+    },
+    {
+      "words": "-500",
+      "location": {
+        "top": 757,
+        "left": 696,
+        "width": 60,
+        "height": 23
+      }
+    },
+    {
+      "words": "ID:22212395",
+      "location": {
+        "top": 774,
+        "left": 520,
+        "width": 96,
+        "height": 17
+      }
+    },
+    {
+      "words": "好运来",
+      "location": {
+        "top": 815,
+        "left": 175,
+        "width": 73,
+        "height": 23
+      }
+    },
+    {
+      "words": "+400",
+      "location": {
+        "top": 826,
+        "left": 350,
+        "width": 61,
+        "height": 23
+      }
+    },
+    {
+      "words": "Q十指紧扣",
+      "location": {
+        "top": 813,
+        "left": 485,
+        "width": 126,
+        "height": 25
+      }
+    },
+    {
+      "words": "-540",
+      "location": {
+        "top": 824,
+        "left": 696,
+        "width": 60,
+        "height": 25
+      }
+    },
+    {
+      "words": "1D:22171101",
+      "location": {
+        "top": 842,
+        "left": 178,
+        "width": 94,
+        "height": 16
+      }
+    },
+    {
+      "words": "1D:22256179",
+      "location": {
+        "top": 837,
+        "left": 498,
+        "width": 121,
+        "height": 27
+      }
+    },
+    {
+      "words": "雨露均沾",
+      "location": {
+        "top": 881,
+        "left": 175,
+        "width": 92,
+        "height": 23
+      }
+    },
+    {
+      "words": "+400",
+      "location": {
+        "top": 892,
+        "left": 350,
+        "width": 61,
+        "height": 23
+      }
+    },
+    {
+      "words": "ID:22163898",
+      "location": {
+        "top": 908,
+        "left": 177,
+        "width": 97,
+        "height": 17
+      }
+    },
+    {
+      "words": "闲",
+      "location": {
+        "top": 881,
+        "left": 472,
+        "width": 46,
+        "height": 44
+      }
+    },
+    {
+      "words": "小白菜",
+      "location": {
+        "top": 881,
+        "left": 512,
+        "width": 77,
+        "height": 23
+      }
+    },
+    {
+      "words": "-600",
+      "location": {
+        "top": 892,
+        "left": 696,
+        "width": 60,
+        "height": 23
+      }
+    },
+    {
+      "words": "1D:22274495",
+      "location": {
+        "top": 908,
+        "left": 520,
+        "width": 96,
+        "height": 16
+      }
+    },
+    {
+      "words": "@",
+      "location": {
+        "top": 951,
+        "left": 178,
+        "width": 22,
+        "height": 17
+      }
+    },
+    {
+      "words": "+400",
+      "location": {
+        "top": 958,
+        "left": 350,
+        "width": 61,
+        "height": 25
+      }
+    },
+    {
+      "words": "LH",
+      "location": {
+        "top": 951,
+        "left": 522,
+        "width": 32,
+        "height": 17
+      }
+    },
+    {
+      "words": "-800",
+      "location": {
+        "top": 958,
+        "left": 696,
+        "width": 60,
+        "height": 25
+      }
+    },
+    {
+      "words": "1D:22274440",
+      "location": {
+        "top": 976,
+        "left": 159,
+        "width": 116,
+        "height": 16
+      }
+    },
+    {
+      "words": "1D:22012356",
+      "location": {
+        "top": 976,
+        "left": 522,
+        "width": 94,
+        "height": 16
+      }
+    },
+    {
+      "words": "小武",
+      "location": {
+        "top": 1016,
+        "left": 137,
+        "width": 87,
+        "height": 23
+      }
+    },
+    {
+      "words": "+300",
+      "location": {
+        "top": 1027,
+        "left": 350,
+        "width": 61,
+        "height": 23
+      }
+    },
+    {
+      "words": "ID:22155409",
+      "location": {
+        "top": 1043,
+        "left": 177,
+        "width": 96,
+        "height": 16
+      }
+    },
+    {
+      "words": "D:22163899",
+      "location": {
+        "top": 1043,
+        "left": 524,
+        "width": 92,
+        "height": 16
+      }
+    },
+    {
+      "words": "-2100",
+      "location": {
+        "top": 1027,
+        "left": 682,
+        "width": 73,
+        "height": 25
+      }
+    },
+    {
+      "words": "疑自巴",
+      "location": {
+        "top": 1097,
+        "left": 132,
+        "width": 41,
+        "height": 17
+      }
+    },
+    {
+      "words": "黄锦青",
+      "location": {
+        "top": 1084,
+        "left": 170,
+        "width": 77,
+        "height": 23
+      }
+    },
+    {
+      "words": "+300",
+      "location": {
+        "top": 1095,
+        "left": 350,
+        "width": 61,
+        "height": 23
+      }
+    },
+    {
+      "words": "阳光",
+      "location": {
+        "top": 1082,
+        "left": 519,
+        "width": 49,
+        "height": 25
+      }
+    },
+    {
+      "words": "-3840",
+      "location": {
+        "top": 1095,
+        "left": 680,
+        "width": 73,
+        "height": 23
+      }
+    },
+    {
+      "words": "1D:21962587",
+      "location": {
+        "top": 1111,
+        "left": 177,
+        "width": 97,
+        "height": 16
+      }
+    },
+    {
+      "words": "1D:22168778",
+      "location": {
+        "top": 1111,
+        "left": 520,
+        "width": 97,
+        "height": 16
+      }
+    },
+    {
+      "words": "一切自我",
+      "location": {
+        "top": 1154,
+        "left": 178,
+        "width": 85,
+        "height": 17
+      }
+    },
+    {
+      "words": "+300",
+      "location": {
+        "top": 1161,
+        "left": 350,
+        "width": 61,
+        "height": 23
+      }
+    },
+    {
+      "words": "Reset",
+      "location": {
+        "top": 1154,
+        "left": 520,
+        "width": 60,
+        "height": 17
+      }
+    },
+    {
+      "words": "1D:22215307",
+      "location": {
+        "top": 1178,
+        "left": 177,
+        "width": 96,
+        "height": 17
+      }
+    },
+    {
+      "words": "1D:22119302",
+      "location": {
+        "top": 1178,
+        "left": 520,
+        "width": 96,
+        "height": 17
+      }
+    },
+    {
+      "words": "-6380",
+      "location": {
+        "top": 1161,
+        "left": 680,
+        "width": 75,
+        "height": 25
+      }
+    },
+    {
+      "words": "游戏对战成绩记录仅为游戏规则体现，不具备货币属性",
+      "location": {
+        "top": 1671,
+        "left": 41,
+        "width": 794,
+        "height": 36
+      }
+    }
+  ],
+  "words_result_num": 93,
+  "log_id": 1528747599892504036
+}
