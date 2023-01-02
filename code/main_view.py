@@ -831,6 +831,8 @@ class MainView(QWidget):
             result = self.api.template_ocr(image, id_count)
             # 选框中显示
             boxes, room_id = ResultParser.get_data_tuple_template(result)
+            print("jingru")
+            print(boxes, room_id)
             self.room_num_lb.setText(f'房间号：{room_id}')
             self.image_view.current_scene.set_boxes(boxes)
             self.image_view.current_scene.set_image(image)
@@ -839,6 +841,7 @@ class MainView(QWidget):
             # 解析结果数据
             result = ResultParser.parse_template(result, id_count)
 
+            print(result)
             # 将数据加载到当前表格
             self.current_result = result
             update_current_info()
@@ -1119,19 +1122,31 @@ class MainView(QWidget):
             id_count = 20
         # print('有效用户数量:' + str(id_count))
         result = self.api.template_ocr(image, id_count)
+
         # 选框中显示
+        print("进入")
         boxes, room_id = ResultParser.get_data_tuple_template(result)
+        print("退出")
         self.room_num_lb.setText(f'房间号：{room_id}')
+
+        print("进入1")
         self.image_view.current_scene.set_boxes(boxes)
+
+        print("进入2")
         self.image_view.current_scene.set_image(image)
+
+        print("进入3")
         self.image_view.current_scene.update_image()
 
+        print("进入4")
         # 解析结果数据
         result = ResultParser.parse_template(result, id_count)
 
+        print("进入5")
         # 将数据加载到当前表格
         self.current_result = result
         self.update_current_info()
+        print("进入6")
 
     # 更新当前信息
     def update_current_info(self):

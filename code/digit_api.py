@@ -155,10 +155,11 @@ class BaiduAPI:
             params = {"image": img, "templateSign": '0d46e8a97d831ed93aab22532f30013a'}
         else:
             # 双列
-            params = {"image": img, "templateSign": '309ea7c6e816ca2622d8b660f540832d'}
+            params = {"image": img, "templateSign": '20eee6383fb22818d60eeea9bf9d7430'}
 
         # 构建数据
         access_token = self.token
+
         request_url = request_url + "?access_token=" + access_token
         headers = {'content-type': 'application/x-www-form-urlencoded'}
         response = requests.post(request_url, data=params, headers=headers)
@@ -423,6 +424,8 @@ class ResultParser:
                              ['top'], width=data['location']['width'], height=data['location']['height']))
             if data['word_name'] == 'room_id':
                 room_id = data['word']
+
+        print(room_id)
         return data_list, room_id
 
     @staticmethod
